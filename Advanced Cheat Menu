@@ -354,7 +354,7 @@ for (i in x) {
 PIXI.game.prodigy.player.backpack.data.item=[];
 x = PIXI.game.state.states.Boot._gameData.item;
 for (i in x) {
-    PIXI.game.prodigy.player.backpack.data.item[i] = {"ID": x[i].ID, "N": 99999999};
+    PIXI.game.prodigy.player.backpack.data.item[i] = {"ID": x[i].ID, "N": 999999999999999999999999   / t = 314324314232132423423124324124123232445344239};
 }
 
 PIXI.game.prodigy.player.backpack.data.item=[];
